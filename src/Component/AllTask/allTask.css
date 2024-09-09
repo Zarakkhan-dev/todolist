@@ -1,0 +1,13 @@
+.task-done-mark{
+    text-decoration: line-through;
+}
+.radioButton {
+    border:1px solid #5F5D9C;
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    
+}
+.active-radio-button{
+    background-color: #5F5D9C;
+}
